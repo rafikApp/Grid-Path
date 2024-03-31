@@ -1,0 +1,1 @@
+Ce projet PYTHON implémente des algorithmes de recherche de chemin minimal dans une grille générée aléatoirement. Il utilise une approche graphique pour représenter les résultats de manière interactive. Ce projet démontre une capacité à combiner des compétences en algorithmique et en visualisation de données.
